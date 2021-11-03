@@ -1,0 +1,103 @@
+#title{
+  background-color: #1597E5;
+  padding: 3% 14%;
+}
+
+.nav-list{
+  padding: 0 18px;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.btn-download{
+  margin: 0 75px 0 75px;
+}
+
+.mdi-36px {
+    font-size: 38px;
+    margin-right: 10px;
+}
+
+.phone{
+  width: 100%;
+}
+
+#features{
+  padding: 7% 14%;
+  text-align: center;
+}
+
+h1{
+font-family: 'Ceviche One';
+font-size: 100px;
+}
+h2,
+h3{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 250%;
+}
+
+p{
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 150%;
+}
+
+#testimonials{
+  background-color: #1597E5;
+}
+
+.container {
+  padding-top: 50px;
+  position: relative;
+  color: black;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#press{
+  padding: 7% 14%;
+  background-color: #1597E5;
+  text-align: center;
+  padding: 3%;
+}
+
+.logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#pricing{
+  padding: 7% 14%;
+  text-align: center;
+}
+
+.jap-img,
+.kor-img,
+.wash-img,
+.lon-img{
+  width: 80%;
+}
+
+#cta{
+  padding: 7% 14%;
+  text-align: center;
+  color: white;
+  background-color: #193498;
+}
+
+#footer{
+  padding: 2% 7%;
+  text-align: center;
+}
+
+.foot-icon{
+  padding: 20px 10px;
+  color: #09009B;
+}
